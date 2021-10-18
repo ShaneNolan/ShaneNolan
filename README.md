@@ -13,7 +13,7 @@ A Software Engineer from Ireland 🍀.
 
 <hr>
 
-### Socials 
+### Socials 📣
 
 [![Linkedin Badge](https://img.shields.io/badge/-shanenullain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shanenullain/)](https://www.linkedin.com/in/shanenullain/) [![Medium Badge](https://img.shields.io/badge/-@shanenullain-white?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@shanenullain/)](https://medium.com/@shanenullain)
 [![Gmail Badge](https://img.shields.io/badge/-shanenullain@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shanenullain@gmail.com)](mailto:shanenullain@gmail.com)
