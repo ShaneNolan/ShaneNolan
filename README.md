@@ -1,4 +1,4 @@
-### Hey, I'm Shane! <img src="https://raw.githubusercontent.com/ShaneNolan/ShaneNolan/main/wave.gif" width="20px">
+### Hey, I'm Shane! <img src="https://raw.githubusercontent.com/ShaneNolan/ShaneNolan/main/wave.gif" width="20px" height=20px>
 A Software Engineer from Ireland 🍀.
 <hr>
 
